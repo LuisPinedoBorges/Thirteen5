@@ -1,0 +1,15 @@
+body{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 800;
+    text-align: center;
+    margin: 20px auto;
+    background-color: #000000;
+    color: white;
+}
+p{
+    font-family: "Inconsolata", monospace;
+    font-weight: 400;
+    text-align: left;
+    margin: auto;
+    padding: 200px;
+}
