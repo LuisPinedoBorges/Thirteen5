@@ -13,3 +13,16 @@ p{
     margin: auto;
     padding: 200px;
 }
+
+#myMenu{
+margin: 0 auto;
+background-color: white;
+padding: 10px;
+}
+
+.myWrapper{
+margin: 0 auto;
+background-color: black;
+padding: 10px 10px;
+}
+
