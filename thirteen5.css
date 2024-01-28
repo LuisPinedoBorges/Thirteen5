@@ -1,4 +1,7 @@
 body{
+    background-color: #000000;
+}
+h1 {
     font-family: 'Inconsolata', monospace;
     font-weight: 800;
     text-align: center;
@@ -6,7 +9,7 @@ body{
     background-color: #000000;
     color: white;
 }
-p{
+p {
     font-family: "Inconsolata", monospace;
     font-weight: 400;
     text-align: left;
@@ -14,15 +17,27 @@ p{
     padding: 200px;
 }
 
-#myMenu{
-margin: 0 auto;
-background-color: white;
-padding: 10px;
+#logo{
+    height: 150px;
+    width: auto;
+    float: left;
+    padding: 0 50px;
+    display: inline;
 }
 
-.myWrapper{
-margin: 0 auto;
-background-color: black;
-padding: 10px 10px;
+a:visited, a:link, .nav{
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 400;
+    display:inline;
+    padding-right: 30px;
 }
 
+a:hover, .nav{
+    color: grey;
+}
+
+nav{
+    margin: 0;
+
+}
